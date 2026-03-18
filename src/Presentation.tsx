@@ -3,9 +3,7 @@ const arealCityscape = staticImages[0];
 
 export default function Presentation() {
   return (
-    <div
-      className="min-h-screen bg-gradient-to-br from-neutral-100 to-neutral-200"
-    >
+    <div className="min-h-screen bg-gradient-to-br from-neutral-100 to-neutral-200">
       <div className="relative overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
